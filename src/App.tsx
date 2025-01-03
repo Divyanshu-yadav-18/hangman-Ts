@@ -29,7 +29,9 @@ function App() {
       </div>
       <HangmanDrawing/>
       <HangmanLetter/>
+      <div style={{alignSelf:"stretch"}}>
       <Keyboard/>
+      </div>
       
     </div>
   )
